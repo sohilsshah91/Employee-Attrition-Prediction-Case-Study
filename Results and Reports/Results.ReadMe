@@ -1,0 +1,11 @@
+Here, we would have word and pdf format of the Final report capturing the results of the various experiments.
+different machine learning models like 
+ - Boosted Decision Trees, 
+ - Logistic Regression, 
+ - Decision Forests, 
+ - Neural Networks and 
+ - Naive Bayes. 
+ 
+ I also found out important predictors or factors that could help predict the possible attrition. 
+ I have used Tableau for visualizationsto showcase the correlation between the top predictors with the target variable of Attrition.
+ I have used Microsoft Azure Machine Learning Studio for the machine learning model development.
